@@ -1,0 +1,11 @@
+venv/
+.venv/
+data/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+.env
+*.dylib
